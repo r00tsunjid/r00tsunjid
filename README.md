@@ -148,5 +148,8 @@ int main(void) {
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  <a href="https://buymeacoffee.com/SunjidAhmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+![snake gif](https://github.com/r00tsunjid/r00tsunjid/blob/output/github-snake-dark.svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=r00tsunjid&color=blue)
 
 
